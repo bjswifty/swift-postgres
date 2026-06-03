@@ -1,0 +1,5 @@
+-- SQL files in this folder run once when the Postgres data volume is first created.
+-- Add schema, seed data, extensions, or roles here as your project grows.
+--
+-- Example:
+-- CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
